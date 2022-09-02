@@ -604,7 +604,7 @@ namespace Testing.TestsScheduler.Recurring
 		}
 
 		[Fact]
-		public void Checking_MonthlyTipo_FourthDay_3Steps_OnceHour()
+		public void Checking_MonthlyTipo_FourthDay_3Steps_OnceHur()
 		{
 			Input entrada = new()
 			{
